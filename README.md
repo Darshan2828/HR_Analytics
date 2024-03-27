@@ -1,4 +1,14 @@
 # HR_Analytics
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Results/Findings](#resultsfindings)
+- [Recommendations](#recommendations)
+
+
 ### Project Overview
 A Human Resource analysis project that involves the analysis of Key Performance indicators to gain insights and make data-driven decisions for company's Workforce. It includes monitoring the overall attrition rate, Total Employees, Department wise Attrition Rate, Gender Wise number of Employees, Worklife Balance, Job satisfaction, Monthly income. Understanding attrition is crucial for organizations to retain talent and maintain productivity. This presentation will explore the causes and impacts of attrition, as well as effective strategies for retention.Attrition can lead to decreased productivity, increased recruitment costs, and a negative impact on morale. Understanding these impacts is crucial for organizations to recognize the importance of retention efforts.
 
@@ -16,7 +26,7 @@ In the initial phase performed the following task:
 1. Data Loading and Validation
 2. Data cleaning and Formatting
 
-### Key Performance Indicators
+### Exploratory Data Analysis
 EDA involved exploring the HR data to answer the Key Question's such as:
 - Department Wise Attrition Rate
 - Monthly Income VS Attrition Rate
